@@ -1,0 +1,1 @@
+1) gcc -c myfile.c: The -c flag instructs gcc to only compile the source file to an .o (object) files but will not invoke the linker which is the last stage of the compilation process
