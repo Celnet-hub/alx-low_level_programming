@@ -3,7 +3,6 @@
 
 /**
  * @brief Multiplies *two numbers
- * 
  * @param a 
  * @param b 
  * @return int 
