@@ -12,7 +12,7 @@ int i; /*Declaring statements*/
 i = 0;
 while (i < 10)/*Start While*/
 {
-_putchar(i); /*print value i*/
+_putchar(i + '0'); /*print value i*/
 i++;
 }
 
