@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * @brief Multiplies two numbers
+ * @brief Multiplies *two numbers
  * 
  * @param a 
  * @param b 
