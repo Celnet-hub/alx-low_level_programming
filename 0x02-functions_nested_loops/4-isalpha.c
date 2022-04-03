@@ -2,9 +2,7 @@
 
 /**
  * _isalpha - is a function that checks for lowercase and uppercase letters
- * 
  * @c: the int to be checked
- * 
  * Return: Returns 1 if c is a lowercase or uppercase letter, 0 if otherwise
  *
  */
