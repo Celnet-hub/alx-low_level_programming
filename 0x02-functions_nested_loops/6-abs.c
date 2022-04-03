@@ -3,8 +3,8 @@
 
 /**
  * _abs(int) is a function that returns the absolute value of int
- *@c is the parameter that is passed to the function
- * Returns: the absolute value of the parameter passed.
+ *@c: is the parameter that is passed to the function
+ * Return: the absolute value of the parameter passed.
  *
  */
 
