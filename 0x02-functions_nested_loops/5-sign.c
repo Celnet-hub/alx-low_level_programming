@@ -2,7 +2,6 @@
 
 /**
  * print_sign - function that prints signs based on the value of n
- * 
  * @n: is the int parameter passed to the function 
  * Return: 1 if n > 0
  *         0 if n == 0
