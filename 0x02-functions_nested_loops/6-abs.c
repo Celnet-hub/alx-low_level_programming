@@ -2,7 +2,7 @@
 #include "stdlib.h"
 
 /**
- * _abs(int) is a function that returns the absolute value of int
+ * _abs - function that returns absolute value
  *@c: is the parameter that is passed to the function
  * Return: the absolute value of the parameter passed.
  *
