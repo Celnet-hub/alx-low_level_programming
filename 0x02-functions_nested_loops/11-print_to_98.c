@@ -30,5 +30,5 @@ else
 {
 printf("%d", n);
 }
-_putchar('\n');
+printf("\n");
 }
