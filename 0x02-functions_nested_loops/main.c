@@ -1,4 +1,4 @@
-#include "8-24_hours.c"
+#include "9-times_table.c"
 #include "stdio.h"
 
 /**
@@ -8,6 +8,6 @@
  */
 int main(void)
 {
-    jack_bauer();
+    times_table();
     return (0);
 }
