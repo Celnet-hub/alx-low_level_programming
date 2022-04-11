@@ -1,4 +1,4 @@
-#include "9-times_table.c"
+#include "10-add.c"
 #include "stdio.h"
 
 /**
@@ -8,6 +8,9 @@
  */
 int main(void)
 {
-    times_table();
+        int n;
+
+    n = add(89, 9);
+    printf("%d\n", n);
     return (0);
 }
