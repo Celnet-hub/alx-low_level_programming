@@ -20,6 +20,7 @@ day = 2;
 year = 2000;
 
 printf("Date: %02d/%02d/%04d\n", month, day, year);
+//%02d/%02d/%04d - two digits max for month, day, respectively and four digits max for year.
 
 day = convert_day(month, day);
 
