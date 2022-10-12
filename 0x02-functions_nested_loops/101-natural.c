@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * Write a program that computes and prints the sum of all the
+ * Desciption - Write a program that computes and prints the sum of all the
  * multiples of 3 or 5 below 1024 (excluded), followed by a new line.
  * 
- * main - increasing and decreasing until 98
+ * main - function increasing and decreasing until 98
  *
  * Return: Always 0.
  */
